@@ -43,7 +43,7 @@ This repository is made of several separate npm modules, that are installable se
 
 Its also possible to install the modules as usual using npm:
 
-    npm install 
+    npm install --force
 
 This should take a couple of minutes. If there are issues, please post the complete error message in the Questions section of the course.
 
