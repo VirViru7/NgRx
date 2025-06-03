@@ -26,7 +26,9 @@ export class AppComponent implements OnInit {
     }
 
     ngOnInit() {
-
+        console.log('First Dummy Commit');
+        console.log('Second Dummy Commit');
+        console.log('Third Dummy Commit');
         const userProfile = localStorage.getItem("user");
 
         if (userProfile) {
